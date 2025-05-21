@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pid-boost")(type "KiCad")(uri "${KIPRJMOD}/pid-boost.kicad_sym")(options "")(descr ""))
+)
